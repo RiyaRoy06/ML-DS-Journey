@@ -4,3 +4,4 @@ List=list(range(1000001))
 Set=set(List)
 print(-1 in List)
 print(-1 in Set)
+#explanation in Day05.md
