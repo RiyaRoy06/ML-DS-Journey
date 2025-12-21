@@ -4,4 +4,4 @@ x=0
 try:
   print(100/x)
 except ZeroDivisionError:
-  print("Cannot devide by zero.")
+  print("Cannot divide by zero.")
