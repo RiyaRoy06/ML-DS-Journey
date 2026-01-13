@@ -1,0 +1,12 @@
+# Goal: Create a class User. Ensure every user starts with is_active=True.
+
+class User:
+  def __init__(self,name):
+    self.name=name
+    self.is_active=True
+user1=User("Riya")
+user2=User("Rai")
+print(user1.name)
+print(user1.is_active)
+print(user2.name)
+print(user2.is_active)
